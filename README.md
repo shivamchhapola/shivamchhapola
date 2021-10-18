@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivam Chhapola</h1>
 <h3 align="center">I'm a Unity Game Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamchhapola&label=Profile%20views&color=0e75b6&style=flat" alt="shivamchhapola" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamchhapola" alt="shivamchhapola" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/shiv_chhapola" target="blank"><img src="https://img.shields.io/twitter/follow/shiv_chhapola?logo=twitter&style=for-the-badge" alt="shiv_chhapola" /></a> </p>
 
 - 🔭 I’m currently working on [Perlin Noise Map Generator](https://github.com/shivamchhapola/Perlin-Noise-Map-Generator)
