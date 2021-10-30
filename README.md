@@ -34,4 +34,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamchhapola&show_icons=true&locale=en" alt="shivamchhapola" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamchhapola&" alt="shivamchhapola" /></p>
+
