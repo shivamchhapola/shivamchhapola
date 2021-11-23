@@ -7,13 +7,9 @@
 
 - 🌱 I’m currently learning **Unity, Image Recognition using python, Bot development**
 
-- 🤝 I’m looking for help with [Perlin Noise Algorithm](https://en.wikipedia.org/wiki/Perlin_noise#:~:text=Perlin%20noise%20is%20a%20procedural,details%20are%20the%20same%20size.)
-
 - 💬 Ask me about **Unity, Godot, Python**
 
 - 📫 How to reach me **shivam.chhapola.1920@gmail.com**
-
-- ⚡ Fun fact **I am an Idiot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
