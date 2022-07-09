@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shivam Chhapola</h1>
-<h3 align="center">I'm a Unity Game Developer from India</h3>
+<h3 align="center">I'm a Unity Game Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/shiv_chhapola" target="blank"><img src="https://img.shields.io/twitter/follow/shiv_chhapola?logo=twitter&style=for-the-badge" alt="shiv_chhapola" /></a> </p>
 
-- 🔭 I’m currently working on [Perlin Noise Map Generator](https://github.com/shivamchhapola/Perlin-Noise-Map-Generator)
+- 🔭 I’m currently working on 50-50 challenge website
 
-- 🌱 I’m currently learning **Unity, Image Recognition using python, Bot development**
+- 🌱 I’m currently learning **Web Development, Multiplayer Game Development**
 
 - 💬 Ask me about **Unity, Godot, Python**
 
