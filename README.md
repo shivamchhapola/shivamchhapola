@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/shiv_chhapola" target="blank"><img src="https://img.shields.io/twitter/follow/shiv_chhapola?logo=twitter&style=for-the-badge" alt="shiv_chhapola" /></a> </p>
 
-- 🔭 I’m currently working on 50-50 challenge website
+- 🔭 I’m currently working on <a href="https://github.com/shivamchhapola/50-50-challenge">FiftyFifty Challenge website</a>
 
 - 🌱 I’m currently learning **Web Development, Multiplayer Game Development**
 
