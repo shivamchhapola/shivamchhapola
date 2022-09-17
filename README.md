@@ -2,6 +2,7 @@
 <h3 align="center">I'm a Unity Game Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/shiv_chhapola" target="blank"><img src="https://img.shields.io/twitter/follow/shiv_chhapola?logo=twitter&style=for-the-badge" alt="shiv_chhapola" /></a> </p>
+<p align="left"> <a href="https://instagram.com/shiv_chhapola" target="blank"><img src="https://img.shields.io/instagram/follow/shiv_chhapola?logo=instagram&style=for-the-badge" alt="shiv_chhapola" /></a> </p>
 
 - 🔭 I’m currently working on <a href="https://github.com/shivamchhapola/fifty50">FiftyFifty Challenge website</a>
 
