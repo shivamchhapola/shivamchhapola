@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivam Chhapola</h1>
 <h3 align="center">I'm a Game and Web Developer</h3>
 
-- 🔭 I’m currently working on <a href="https://github.com/shivamchhapola/roundtable-chat">Chat Website</a>
+- 🔭 I’m currently working on <a href="https://github.com/shivamchhapola/roundtable-chat">Roundtable</a>
 
 - 🌱 I’m currently learning **Web Development, Multiplayer Game Development**
 
