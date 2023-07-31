@@ -1,4 +1,4 @@
-Hi, I'm Shivam Chhapola, I'm a web weveloper and I have also made some games with Godot and Unity in the past, check them out on my [Itch.io Page](https://sh1v.itch.io)
+Hi, I'm Shivam Chhapola and I'm a web developer.
 
 I mainly work with MERN stack and Next.js to make websites and webapps but I also have some experience in working with Vue.js, PHP and ASP.NET.
 
@@ -17,3 +17,5 @@ Some of my Python projects
 - [Map Generator](https://github.com/shivamchhapola/Perlin-Noise-Map-Generator)
 - [TicTacToe](https://github.com/shivamchhapola/tictactoe)
 - Bruh Music Bot-Discord music bot(Removed because it stopped working)
+
+and I have also made some games with Godot and Unity in the past, check them out on my [Itch.io Page](https://sh1v.itch.io)
